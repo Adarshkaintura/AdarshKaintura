@@ -22,7 +22,6 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=adarshkaintura394)](https://github.com/Adarshkaintura/github-readme)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkaintura&show_icons=true&locale=en&layout=compact" alt="adarshkaintura" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshkaintura&show_icons=true&locale=en" alt="adarshkaintura" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkaintura&" alt="adarshkaintura" /></p>
 
