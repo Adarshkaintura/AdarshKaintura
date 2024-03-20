@@ -1,4 +1,4 @@
-<h1 align="center"> Hello and Namastey I'm Adarsh Kaintura</h1>
+<h1 align="center"> Hello and Namastey I'm </h1>
 
 ![logo](https://github.com/AdarshKaintura/AdarshKaintura/blob/main/thedarhbanner.jpeg)
 
