@@ -40,17 +40,17 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rb__99) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_adarsh_kaintura) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kaintura-08b096269) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Adarsh-Kaintura-5)
 
-<p align="left">
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/adarshkaintura394)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23056A51.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/the_adarsh_kaintura)
 [![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-%23DF0711.svg?logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/profiles/Avril)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/adarshkaintura)
 
-
+<p align="left">
 
 <!--<a href="https://www.codechef.com/users/rahulb_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulb_001" height="30" width="40" /></a>-->
 <!--<a href="https://codeforces.com/profile/x_man001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x_man001" height="30" width="40" /></a>-->
