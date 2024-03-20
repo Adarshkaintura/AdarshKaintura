@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats:
 
 ### Last 30 Days Github Activity :
-![](https://github-readme-activity-graph.vercel.app/graph?username=RahulBisht001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBisht001&theme=github_dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AdarshKaintura&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshKaintura&theme=github_dark)
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulBisht001&theme=github_dark)-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulBisht001&theme=github_dark)-->
@@ -40,18 +40,16 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rb__99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RahulBisht) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rahulbisht) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Rahulbishtrb) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/RahulB ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/TrexxX001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RahulB) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rb__99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kaintura-08b096269) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Adarsh-Kaintura-5 )
 <p align="left">
-<a href="https://www.leetcode.com/rahulb_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulb_001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rb001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rb001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahul bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahul bisht" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahulb001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulb001" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/trexxx001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trexxx001" height="30" width="40" /></a>
-<a href="https://instagram.com/_rb__99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rb__99" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rahul b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahul b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rahulb_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulb_001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/x_man001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x_man001" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rahulbisht1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulbisht1012" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adarshkaintura394" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulb_001" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/the_adarsh_kaintura" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rb001" height="30" width="40" /></a>
+<!--<a href="https://www.hackerrank.com/rahul bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahul bisht" height="30" width="40" /></a>-->
+<a href="https://linkedin.com/in/adarsh-kaintura-08b096269" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulb001" height="30" width="40" /></a>
+<a href="https://instagram.com/the_adarsh_kaintura" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rb__99" height="30" width="40" /></a>
+<!--<a href="https://www.codechef.com/users/rahulb_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulb_001" height="30" width="40" /></a>-->
+<!--<a href="https://codeforces.com/profile/x_man001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x_man001" height="30" width="40" /></a>-->
+<!--<a href="https://www.hackerearth.com/@rahulbisht1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulbisht1012" height="30" width="40" /></a>-->
 </p>
 
 </br>
