@@ -1,6 +1,6 @@
 <h1 align="center"> Hello and Namastey I'm Adarsh Kaintura</h1>
 
-![logo](https://github.com/AdarshKaintura/AdarshKaintura/blob/main/adarshbanner.jpeg)
+![logo](https://github.com/AdarshKaintura/AdarshKaintura/blob/main/thedarhbanner.jpeg)
 
 
 ## 💫 About Me:
