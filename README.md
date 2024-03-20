@@ -42,14 +42,11 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rb__99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kaintura-08b096269) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Adarsh-Kaintura-5 )
 <p align="left">
-<a href="https://www.leetcode.com/adarshkaintura394" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulb_001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/the_adarsh_kaintura" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rb001" height="30" width="40" /></a>
-<!--<a href="https://www.hackerrank.com/rahul bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahul bisht" height="30" width="40" /></a>-->
-<a href="https://linkedin.com/in/adarsh-kaintura-08b096269" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulb001" height="30" width="40" /></a>
-<a href="https://instagram.com/the_adarsh_kaintura" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rb__99" height="30" width="40" /></a>
+
 <!--<a href="https://www.codechef.com/users/rahulb_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulb_001" height="30" width="40" /></a>-->
 <!--<a href="https://codeforces.com/profile/x_man001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x_man001" height="30" width="40" /></a>-->
 <!--<a href="https://www.hackerearth.com/@rahulbisht1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/AdarshKaintura/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulbisht1012" height="30" width="40" /></a>-->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_adarsh_kaintura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kaintura) 
 </p>
 
 </br>
