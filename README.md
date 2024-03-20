@@ -1,58 +1,84 @@
-<h1 align="center">Hi there 👋, I'm Adarsh Kaintura</h1>
-<h3 align="center">Currently working on an interactive sorting webpage</h3>
+<h1 align="center"> Hello and Namastey I'm Adarsh Kaintura</h1>
+
+![logo](https://github.com/AdarshKaintura/AdarshKaintura/blob/main/GithubBanner%20Final.png)
+
+
+## 💫 About Me:
+ 🔭 I’m a Full stack MERN X Next.js Developer.<br/>
+ 🌱 I'm  Currently Learning AWS 🌥️<br/>
+ <!--🔍 I am Looking for Django and NLP Resources. <br/>-->
+ 🤔 Have you checked out my [Portfolio]() <br/>
+ 💬 Ask me About  Data structure and Algorithms, Front end Development <br/>
+ ⚡ Fun fact: I always smile in the worst condition...<br/>
+ 👨‍💻 All of my projects are available at : [AdarshKaintura](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)<br/>
+ <!--📫 How to reach me : [Linktree](https://linktr.ee/rahulb_001)<br/>-->
+ 📄 Know about my experiences : [LinkedIn](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)<br/>
+
+<img align="left" width="400" src="[(https://pin.it/5h3urp4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw1pQKPdIbMJO1YPajaWWDo_&ust=1673364537857000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjC3-DmuvwCFQAAAAAdAAAAABAR)">
+
+</br>
+
+## 📊 GitHub Stats:
+
+### Last 30 Days Github Activity :
+![](https://github-readme-activity-graph.vercel.app/graph?username=RahulBisht001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBisht001&theme=github_dark)
+
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulBisht001&theme=github_dark)-->
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulBisht001&theme=github_dark)-->
+<!--![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RahulBisht001&layout=compact&langs_count=8&theme=react)-->
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdarshKaintura&layout=compact&langs_count=10&&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshKaintura&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdarshKaintura&theme=github_dark&utcOffset=8)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdarshKaintura&theme=github-dark)](https://git.io/streak-stats)
+
+## 🐦 Coding Stats:
+![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=the_adarsh_kaintura)
+![Leetcode Stats](https://leetcard.jacoblin.cool/adarshkaintura394)
+
 
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://instagram.com/the_adarsh_kaintura">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/adarsh-kaintura">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rb__99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RahulBisht) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rahulbisht) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Rahulbishtrb) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/RahulB ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/TrexxX001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RahulB) 
+<p align="left">
+<a href="https://www.leetcode.com/rahulb_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulb_001" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rb001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rb001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rahul bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahul bisht" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulb001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulb001" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/trexxx001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trexxx001" height="30" width="40" /></a>
+<a href="https://instagram.com/_rb__99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rb__99" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rahul b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahul b" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rahulb_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulb_001" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/x_man001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x_man001" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@rahulbisht1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulbisht1012" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" />
-</p>
+</br>
+</br>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshkaintura&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkaintura&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkaintura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+## 🖥️Tech Stack:
+<p></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adarshkaintura&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+<h3 align="left">Languages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,cpp,html,css,scss&theme=dark)](https://skillicons.dev)
+
+<h3 align="left">Technologies</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,expressjs,django,&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,sklearn,firebase,vercel,netlify,&theme=dark)](https://skillicons.dev)
+
+<h3 align="left">Software and Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,bootstrap,codepen,materialui&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,vite,md,replit,discord&theme=dark)](https://skillicons.dev)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adarshkaintura&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=adarshkaintura&icon=4&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
