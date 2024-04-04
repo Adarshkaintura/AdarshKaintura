@@ -66,9 +66,9 @@
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,c,c++,java,python,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,java,python,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,cpp,html,css,scss&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,html,css,&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Technologies</h3>
 
