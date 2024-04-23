@@ -72,7 +72,7 @@
 
 <h3 align="left">Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,reactjs,&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,&theme=dark)](https://skillicons.dev)
 
