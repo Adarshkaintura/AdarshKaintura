@@ -4,15 +4,24 @@
 
 
 ## 💫 About Me:
- 🔭 I’m a Full stack MERN X Next.js Developer.<br/>
- 🌱 I'm  Currently Learning AWS 🌥️<br/>
- <!--🔍 I am Looking for Django and NLP Resources. <br/>-->
- 🤔 Have you checked out my [Portfolio]() <br/>
- 💬 Ask me About  Data structure and Algorithms, Front end Development <br/>
- ⚡ Fun fact: I always smile in the worst condition...<br/>
- 👨‍💻 All of my projects are available at : [AdarshKaintura](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)<br/>
- <!--📫 How to reach me : [Linktree](https://linktr.ee/rahulb_001)<br/>-->
- 📄 Know about my experiences : [LinkedIn](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)<br/>
+{
+  "name": "Adarsh Kaintura",
+  "role": "Full stack MERN X Next.js Developer",
+  "currentFocus": "Exploring AWS ☁️",
+  "portfolio": {
+    "link": "Your Portfolio Link",
+    "description": "Check out my latest projects!"
+  },
+  "interests": ["Data structure and Algorithms", "Front end Development"],
+  "funFact": "I always smile in the worst conditions...",
+  "projects": {
+    "allProjects": "https://www.linkedin.com/in/adarsh-kaintura-08b096269/"
+  },
+  "experiences": {
+    "linkedin": "https://www.linkedin.com/in/adarsh-kaintura-08b096269/"
+  }
+}
+
 
 <img align="left" width="400" src="[(https://pin.it/5h3urp4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw1pQKPdIbMJO1YPajaWWDo_&ust=1673364537857000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjC3-DmuvwCFQAAAAAdAAAAABAR)">
 
@@ -80,4 +89,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,materialui&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,discord&theme=dark)](https://skillicons.dev
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,discord&theme=dark)](https://skillicons.dev)
