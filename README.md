@@ -80,9 +80,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,materialui&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,discord&theme=dark)](https://skillicons.dev)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,discord&theme=dark)](https://skillicons.dev
