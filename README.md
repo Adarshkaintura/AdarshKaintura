@@ -2,20 +2,17 @@
 
 ![logo](https://github.com/AdarshKaintura/AdarshKaintura/blob/main/thedarhbanner.jpeg)
 
-
 ## 💫 Get To Know me
 
-🔭 I’m a MERN Developer.<br/>
-🌱 I'm Currently Learning AWS 🌥️<br/>
-<!--🔍 I am Looking for Django and NLP Resources. <br/>-->
+🔭 I’m a Data Science Enthusiast.<br/>
+🌱 I'm Currently Learning Machine Learning and Deep Learning. 🤖<br/>
+<!--🔍 I am Looking for Advanced Data Analytics Resources. <br/>-->
 🤔 Have you checked out my [Portfolio]() <br/>
-💬 Ask me About Data structure and Algorithms, Front end Development <br/>
-⚡ Fun fact: I always smile in the worst condition...<br/>
-👨‍💻 All of my projects are available at : [AdarshKaintura](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)<br/>
-<!--📫 How to reach me : [Linktree](https://linktr.ee/rahulb_001)<br/>-->
-📄 Know about my experiences : [LinkedIn](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)<br/>
-
-
+💬 Ask me About Data Science, Machine Learning, and Python Programming. <br/>
+⚡ Fun fact: I find patterns in everything... even in my snacks! 🍕<br/>
+👨‍💻 All of my projects are available at: [AdarshKaintura](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)<br/>
+<!--📫 How to reach me: [Linktree](https://linktr.ee/rahulb_001)<br/>-->
+📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)<br/>
 
 <img align="left" width="400" src="[(https://pin.it/5h3urp4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw1pQKPdIbMJO1YPajaWWDo_&ust=1673364537857000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjC3-DmuvwCFQAAAAAdAAAAABAR)">
 
@@ -23,7 +20,7 @@
 
 ## 📊 GitHub Stats:
 
-### Last 30 Days Github Activity :
+### Last 30 Days Github Activity:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AdarshKaintura&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshKaintura&theme=github_dark)
 
@@ -41,16 +38,10 @@
 ![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=the_adarsh_kaintura)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/adarshkaintura394)
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_adarsh_kaintura) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kaintura-08b096269) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Adarsh-Kaintura-5)
-
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/adarshkaintura394)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23056A51.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/the_adarsh_kaintura)
-[![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-%23DF0711.svg?logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/profiles/Avril)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/adarshkaintura)
 
 <p align="left">
@@ -69,18 +60,16 @@
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,java,python,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,html,css,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,sql,matlab,&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Software and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,materialui&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,jupyter,vscode,&theme=dark)](https://skillicons.dev)
