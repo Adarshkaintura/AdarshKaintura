@@ -54,21 +54,14 @@
 </br>
 </br>
 
-## 🖥️Tech Stack:
-<p></p>
+## 🖥️ Tech Stack:
 
-<h3 align="left">Languages</h3>
+### **Languages**
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r,sql,matlab&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,&theme=dark)](https://skillicons.dev)
+### **Technologies**
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=r,sql,matlab,&theme=dark)](https://skillicons.dev)
+### **Software and Tools**
+[![My Skills](https://skillicons.dev/icons?i=git,github,jupyter,vscode,figma,postman&theme=dark)](https://skillicons.dev)
 
-<h3 align="left">Technologies</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,&theme=dark)](https://skillicons.dev)
-
-<h3 align="left">Software and Tools</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,jupyter,vscode,&theme=dark)](https://skillicons.dev)
