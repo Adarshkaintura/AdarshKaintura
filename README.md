@@ -65,18 +65,4 @@
 ### **Software and Tools**
 [![My Skills](https://skillicons.dev/icons?i=git,github,jupyter,vscode,figma,postman&theme=dark)](https://skillicons.dev)
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-![](https://github-readme-stats.vercel.app/api?username=Adarshkaintura&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adarshkaintura&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkaintura&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<a href="http://www.github.com/Adarshkaintura/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshkaintura/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-## 🏆 GitHub Trophies
- ![](https://github-profile-trophy.vercel.app/?username=Adarshkaintura&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
-
-
----
