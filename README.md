@@ -29,10 +29,18 @@
 
 ---
 
-<h3 align="center">🛠️ DevOps & Deployment</h3>
+<h3 align="center">⚙️ DevOps & Automation Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,github,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,linux,bash&theme=dark" />
+</p>
+
+<p align="center">
+  🧩 Tools I use in DevOps pipelines: <br/>
+  🔧 Jenkins for CI/CD automation<br/>
+  📦 Docker for containerization of applications<br/>
+  🚀 Kubernetes for scalable container orchestration<br/>
+  🐧 Linux & Bash for scripting and server ops
 </p>
 
 ---
