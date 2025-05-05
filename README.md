@@ -60,7 +60,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,r,sql,matlab&theme=dark)](https://skillicons.dev)
 
 ### **Technologies**
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,keras,pytorch,sklearn,selenium,mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
 
 ### **Software and Tools**
 [![My Skills](https://skillicons.dev/icons?i=git,github,jupyter,vscode,figma,postman&theme=dark)](https://skillicons.dev)
