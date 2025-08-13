@@ -100,7 +100,7 @@
 
 <p align="center">
   <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=the_adarsh_kaintura" /><br/>
-  <img src="https://leetcard.jacoblin.cool/adarshkaintura394" />
+  <img src="[https://leetcard.jacoblin.cool/adarsh_kaintura]" />
 </p>
 
 ---
