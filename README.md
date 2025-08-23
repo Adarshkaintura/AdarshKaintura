@@ -1,7 +1,7 @@
 <h1 align="center"> Hello and Namastey, I'm Adarsh Kaintura 👋 </h1>
 
 <p align="center">
-  <img src="https://github.com/AdarshKaintura/AdarshKaintura/blob/main/thedarhbanner.jpeg" alt="banner" />
+  <img src="https://github.com/AdarshKaintura/AdarshKaintura/blob/main/adarsh.png" alt="banner" />
 </p>
 
 ---
