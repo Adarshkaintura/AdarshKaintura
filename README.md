@@ -13,7 +13,8 @@
   🌱 Currently learning Deep Learning, MERN Stack, and AI-powered Web Applications. 🤖 <br/>
   💡 Exploring ways to integrate Artificial Intelligence with Web Development. <br/>
   💬 Ask me about AI, Machine Learning, Web Development (React, Node.js), and Python Programming. <br/>
-  👨‍💻 Projects & Experience: <a href="https://www.linkedin.com/in/adarsh-kaintura-08b096269/">LinkedIn</a> <br/>
+  👨‍💻 ToConnect: <a href="https://www.linkedin.com/in/adarsh-kaintura-08b096269/">LinkedIn</a> <br/>
+     Portfolio: <a href="https://adarshkaintura.github.io/PortFolio_Adarsh_Kaintura/">Visit</a> <br/>
   ⚡ Fun fact: I love finding patterns in data, code, and even daily life! 📊💻☕
 </p>
 
