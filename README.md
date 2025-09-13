@@ -64,10 +64,17 @@
 
 ---
 
-<h3 align="center">🔣 Programming Languages</h3>
 
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,sql,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,matlab&theme=dark" />
+</p>
+
+<h3 align="center">🗄️ Databases & Query Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <br/>
+  <b>SQL</b>
 </p>
 
 ---
