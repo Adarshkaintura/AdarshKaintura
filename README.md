@@ -22,11 +22,20 @@
 
 <h2 align="center">🚀 Tech Stack Breakdown</h2>
 
-<h3 align="center">🖥️ MERN Stack</h3>
+<h3 align="center">🖥️ FullStack Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
+  <br/>
+  <b>Hibernate | Tomcat</b>
 </p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
+</p>
+
 
 ---
 
