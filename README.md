@@ -9,10 +9,10 @@
 <h2 align="center">💫 Get To Know Me</h2>
 
 <p align="center">
-  🔭 I’m passionate about AI-Driven Solutions & Full-Stack Web Development. 🚀 <br/>
+  🔭 I’m passionate about **AI-Driven Solutions, Full-Stack Development, and DevOps Automation.** 🚀 <br/>
   🌱 Currently learning Deep Learning, Java Spring Boot, Hibernate, and Modern Frontend with React. 🤖 <br/>
-  💡 Exploring ways to integrate Artificial Intelligence with Web Applications. <br/>
-  💬 Ask me about Java Development (Spring Boot, Hibernate, MySQL), Frontend (React, HTML, CSS, JS), and AI/ML with Python. <br/>
+  💡 Exploring ways to integrate Artificial Intelligence with Web Applications and **automate CI/CD pipelines using Docker.** <br/>
+  💬 Ask me about Java Development (Spring Boot, Hibernate, MySQL), Frontend (React, HTML, CSS, JS), **Cloud/Containerization (Docker, GitHub Actions)**, and AI/ML with Python. <br/>
   👨‍💻 To Connect: <a href="https://www.linkedin.com/in/adarsh-kaintura-08b096269/">LinkedIn</a> <br/>
      Portfolio: <a href="https://adarshkaintura.github.io/PortFolio_Adarsh_Kaintura/">Visit</a> <br/>
   ⚡ Fun fact: I love finding patterns in data, code, and even daily life! 📊💻☕
